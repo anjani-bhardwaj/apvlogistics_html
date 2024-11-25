@@ -187,7 +187,7 @@
   font-family: Urbanist;
   line-height: 1.5;
 }
-.thq-body-small {
+.thq-body-small, .para-body {
   font-size: 18px;
   font-family: Urbanist;
   line-height: 1.5;
